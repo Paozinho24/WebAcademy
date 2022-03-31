@@ -1,0 +1,26 @@
+[
+    {
+        "id": 5,
+        "nomeCompleto": "Manoel Diego Benedito Moraes",
+        "nomeUsuario": "manoel",
+        "cpf": "203.541.840-24",
+        "status": "ativo",
+        "convenio": "Unimed"
+    },
+    {
+        "id": 6,
+        "nomeCompleto": "Manoel Diego Benedito Moraes",
+        "nomeUsuario": "manuel",
+        "cpf": "203.541.840-24",
+        "status": "ativo",
+        "convenio": "Particular"
+    },
+    {
+       "id": 7,
+        "nomeCompleto": "Iago Alexandre Duarte",
+        "nomeUsuario": "Iago",
+        "cpf": "018.986.468-05",
+        "status": "ativo",
+        "papel": "Unimed"
+    }
+]
